@@ -5,7 +5,7 @@ Neurodigits is an advanced project that leverages Artificial Neural Networks (AN
 - [About](#about)
 - [Key Features](#key-features)
 - [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
+- [Installation](#installation)
 - [Contributing](#contributing)
 
 ## About
@@ -18,7 +18,7 @@ Neurodigits is designed to delve into the intricacies of handwritten digit recog
 - **Data Normalization:** Witness the power of normalized pixel values for stable and efficient model training.
 - **Innovative Approach:** Immerse yourself in an innovative approach to digit recognition, pushing the boundaries of what's possible.
 
-### Prerequisites
+## Prerequisites
 
 - Python 3.x
 - numpy
@@ -26,7 +26,7 @@ Neurodigits is designed to delve into the intricacies of handwritten digit recog
 - scikit-learn
 - tensorflow
   
-## Getting Started
+## Installation
 
 To get started with Neurodigits, follow these steps:
 
