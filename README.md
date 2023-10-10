@@ -42,7 +42,7 @@ To get started with Neurodigits, follow these steps:
    source venv/bin/activate  # On Windows: venv\Scripts\activate
 3. **Install Dependencies:**
    ```bash
-   pip install pandas numpy scikit-learn tensorflow
+   pip install pandas numpy scikit-learn tensorflow matplotlib
 4. **Explore the Project:**
    Dive into the codebase, explore the neural network architecture, and experiment with digit recognition
 
